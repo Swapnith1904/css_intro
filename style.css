@@ -1,0 +1,35 @@
+.about-me
+{
+	background-image: linear-gradient(45deg,#D3CCE3,#E9E4F0);
+	height: 100vh;
+	position: relative;
+}
+
+.dark-img
+{
+    position: absolute;
+    bottom: 0;
+    height: 40vh;
+    width: 100%;
+}
+
+.light-img
+{
+    position: absolute;
+    bottom: 0;
+    height: 100%;
+    width: 40vw;
+} 
+
+.about-me-text
+{
+    position: absolute;
+    left: 60%;
+    transform: translateX(-50%);
+    margin-top: 15%;
+}
+.arrow{
+    position: absolute;
+    left: 55%;
+    top: 50%;
+}
